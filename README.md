@@ -24,6 +24,6 @@ A partir d'une base de données issue d'une entreprise de modèles réduits, nou
 (mysql => CSV => Power BI, par exemple)
 
 Requêtes de chacun sur MySQL → export des requêtes en local (CSV).  
-Exploitation sur le serveur de l’entreprise si possible → Représentation des requêtes sur Power BI (et Tableau si possible).	
+Exploitation sur le serveur de l’entreprise si possible → Représentation des requêtes sur Power BI.	
 
 Les **KPIs** ainsi obtenus ont été représentés sous la forme de **Dataviz** via _PowerBi_ et présenté lors d'un entretien. 
