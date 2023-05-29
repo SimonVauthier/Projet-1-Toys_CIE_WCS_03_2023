@@ -1,4 +1,4 @@
-### Projet-1-Toys_CIE_WCS_03_2023
+### Projet_1-Toys_CIE_WCS_03_2023
 Projet de groupe réalisé dans le cadre de la formation de _DATA ANALYST_ à la **Wild Code School** de Nantes.
 A partir d'une base de données issue d'une entreprise de modèles réduits, nous devions extraire et traiter des informations pertinentes afin de répondre aux besoins du client.
 
