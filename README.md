@@ -39,4 +39,18 @@ Les **KPIs** ainsi obtenus ont été représentés sous la forme de **Dataviz** 
 ## ⌛ Temps imparti: 
 3 semaines
 
+## Exemples 
+
+![CA_pays](https://github.com/SimonVauthier/Projet-1-Toys_CIE_WCS_03_2023/assets/129518759/01af8798-f9c7-4031-8493-4d38024222f0) 
+
+![CA_pays_2](https://github.com/SimonVauthier/Projet-1-Toys_CIE_WCS_03_2023/assets/129518759/2ec7ae10-7b04-44cb-bf1d-efad515612ed)
+
+![TOP VENDEUR ](https://github.com/SimonVauthier/Projet-1-Toys_CIE_WCS_03_2023/assets/129518759/5a00a5a9-e0db-47bd-adde-cfac37bd93b4)
+
+
+## Présentation au format PDF
+[présentation_Toys_CIE_WCS_03_2023.pdf](https://github.com/SimonVauthier/Projet-1-Toys_CIE_WCS_03_2023/files/11601688/presentation_Toys_CIE_WCS_03_2023.pdf)
+
+
+
 
